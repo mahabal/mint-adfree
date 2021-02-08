@@ -34,6 +34,9 @@ mint.intuit.com###moduleAccounts-investment > .accounts-adv[href^="/investment-n
 ! "COVID-19 FINANCIAL GUIDE"
 mint.intuit.com##.mintWebCovidWidget
 
+! "FEEDBACK" widget
+mint.intuit.com##.feedbackWidget
+
 
 ! Transactions page.
 
